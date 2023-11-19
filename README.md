@@ -1,4 +1,4 @@
-#TheFish's Portfolio
+# TheFish's Portfolio
 
 ## About me
 Hello ! I am TheFish, aka dede2901, and I'm a programmer with 3 years of experience. I'm specialized in Lua, Python and I am decent with JavaScript. I also know a few more languages such as HTML, CSS... </br>
@@ -10,4 +10,7 @@ After learning the basics of Lua, I started to look at free models because I fel
 I started programming in Python at school and since I already knew how to code, I learnt Python pretty fast and became my teacher's favourite student, lol. I recently learnt OOP in Python and discovered it was also a thing in Lua. I didn't use it a lot yet but I can surely adapt a bunch of projects with it. 
 
 ## Why should I be hired ?
-I am a fast-learning programmer always seeking to learn more. I think that accessing the developer's position in your group would allow me to gain a lot of experience, get better at team work and also 
+I am a fast-learning programmer always seeking to learn more. I think that accessing the developer's position in your group would allow me to gain a lot of experience. Being in a real group will, for sure, show me how to do things the most efficient and effective way.
+
+## Examples of work
+I grouped together everything from the beginning of my journey in [this game]()
