@@ -1,4 +1,4 @@
-<h1 style="align-self: center">TheFish's Portfolio</h1>
+<h1 style="display: flex; align-self: center">TheFish's Portfolio</h1>
 
 ## About me
 Hello ! I am TheFish, aka dede2901, and I'm a programmer with 3 years of experience. I'm specialized in Lua, Python and I am decent with JavaScript. I also know a few more languages such as HTML, CSS... </br>
